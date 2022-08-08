@@ -7,9 +7,9 @@
     <b>Dogetax</b>
   </h1>
 <p align="center">
-  <img src="https://img.shields.io/discord/1004054935471665264?label=Discord&color=5865F2" />
+  <img src="https://img.shields.io/discord/1004054935471665264?label=Discord&color=5865F2&logo=discord" />
   <a href="https://twitter.com/dogetaxapp">
-    <img src="https://img.shields.io/badge/Twitter-00acee?logo=dogetaxapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white" />
   </a>
   <img src="https://img.shields.io/static/v1?label=Stage&message=Alpha&color=2BB4AB" />
 </p>
